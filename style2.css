@@ -1,0 +1,37 @@
+.container-fluid{
+	border-radius: 0;
+	border: 0;	
+	background-color: #7FFFD4;
+
+}
+.navbar-brand{
+	padding-top: : 25px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand h1{
+  color: #0B0B61;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;  
+}
+.stil{
+border: solid black;
+margin: 15px;
+padding-left: 5px;
+background-color:grey;
+}
+.yazı
+{
+font-weight: bold;
+color: red;
+}
+.yazıp{
+font-weight: bold;
+color: black;
+text-align: center;
+margin-top: 2px;
+
+}
